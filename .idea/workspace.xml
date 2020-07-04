@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc2d80ad-735b-4258-ad0d-33250d6354dc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_auth.coverage" NAME="pytest for test_demo.TestDemo.test_auth Coverage Results" MODIFIED="1593768203239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_mailList_TestMailList.coverage" NAME="pytest for test_mailList.TestMailList Coverage Results" MODIFIED="1593856475871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_in_test_getToken_py.coverage" NAME="pytest in test_getToken.py Coverage Results" MODIFIED="1593767922213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_mailList_TestMailList_test_create_department.coverage" NAME="pytest for test_mailList.TestMailList.test_create_department Coverage Results" MODIFIED="1593876901083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_post.coverage" NAME="pytest for test_demo.TestDemo.test_post Coverage Results" MODIFIED="1593586761418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_json.coverage" NAME="pytest for test_demo.TestDemo.test_json Coverage Results" MODIFIED="1593589168083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_get.coverage" NAME="pytest for test_demo.TestDemo.test_get Coverage Results" MODIFIED="1593585695143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_mailList_TestMailList_test_get.coverage" NAME="pytest for test_mailList.TestMailList.test_get Coverage Results" MODIFIED="1593876120130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_getToken_test_getToken.coverage" NAME="pytest for test_getToken.test_getToken Coverage Results" MODIFIED="1593840860337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_mailList_TestMailList_test_delete_department.coverage" NAME="pytest for test_mailList.TestMailList.test_delete_department Coverage Results" MODIFIED="1593877537373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_getToken_test_get.coverage" NAME="pytest for test_getToken.test_get Coverage Results" MODIFIED="1593840888184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_getToken_test_updates.coverage" NAME="pytest for test_getToken.test_updates Coverage Results" MODIFIED="1593842452330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_in_test_demo_py.coverage" NAME="pytest in test_demo.py Coverage Results" MODIFIED="1593586143329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_getToken_test_create.coverage" NAME="pytest for test_getToken.test_create Coverage Results" MODIFIED="1593842147643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_hamcrest.coverage" NAME="pytest for test_demo.TestDemo.test_hamcrest Coverage Results" MODIFIED="1593589839382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_getToken_test_delete.coverage" NAME="pytest for test_getToken.test_delete Coverage Results" MODIFIED="1593842590656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_mailList_TestMailList_test_create.coverage" NAME="pytest for test_mailList.TestMailList.test_create Coverage Results" MODIFIED="1593876498690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$demo.coverage" NAME="demo Coverage Results" MODIFIED="1593584790533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_post_json.coverage" NAME="pytest for test_demo.TestDemo.test_post_json Coverage Results" MODIFIED="1593587998461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_cookies.coverage" NAME="pytest for test_demo.TestDemo.test_cookies Coverage Results" MODIFIED="1593591269972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_mailList_TestMailList_test_get_department.coverage" NAME="pytest for test_mailList.TestMailList.test_get_department Coverage Results" MODIFIED="1593876559085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_query.coverage" NAME="pytest for test_demo.TestDemo.test_query Coverage Results" MODIFIED="1593586607802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_heard.coverage" NAME="pytest for test_demo.TestDemo.test_heard Coverage Results" MODIFIED="1593587547718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_mailList_TestMailList_test_updates_department.coverage" NAME="pytest for test_mailList.TestMailList.test_updates_department Coverage Results" MODIFIED="1593877212606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_wx" />
+    <SUITE FILE_PATH="coverage/httpTest$pytest_for_test_demo_TestDemo_test_demo.coverage" NAME="pytest for test_demo.TestDemo.test_demo Coverage Results" MODIFIED="1593591101737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2940">
+              <caret line="98" column="40" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requests_wx/test_getToken.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requests_wx/test_mailList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="55" column="44" lean-forward="true" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#6#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/test_demo.py" />
+        <option value="$PROJECT_DIR$/requests_wx/test_getToken.py" />
+        <option value="$PROJECT_DIR$/requests_wx/test_mailList.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1420" />
+    <option name="height" value="885" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="httpTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="httpTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="httpTest" type="462c0819:PsiDirectoryNode" />
+              <item name="requests_wx" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/requests_wx/test_getToken.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_mailList.TestMailList.test_delete_department">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="httpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/requests_wx/test_getToken.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_mailList.TestMailList.test_create" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="httpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests_wx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_mailList.TestMailList.test_create&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_mailList.TestMailList.test_create_department" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="httpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests_wx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_mailList.TestMailList.test_create_department&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_mailList.TestMailList.test_delete_department" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="httpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests_wx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_mailList.TestMailList.test_delete_department&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_mailList.TestMailList.test_get_department" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="httpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests_wx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_mailList.TestMailList.test_get_department&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_mailList.TestMailList.test_updates_department" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="httpTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests_wx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_mailList.TestMailList.test_updates_department&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_mailList.TestMailList.test_delete_department" />
+        <item itemvalue="Python tests.pytest for test_mailList.TestMailList.test_updates_department" />
+        <item itemvalue="Python tests.pytest for test_mailList.TestMailList.test_create_department" />
+        <item itemvalue="Python tests.pytest for test_mailList.TestMailList.test_get_department" />
+        <item itemvalue="Python tests.pytest for test_mailList.TestMailList.test_create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc2d80ad-735b-4258-ad0d-33250d6354dc" name="Default Changelist" comment="" />
+      <created>1593583465640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593583465640</updated>
+      <workItem from="1593583466989" duration="1484000" />
+      <workItem from="1593585021242" duration="1031000" />
+      <workItem from="1593586117593" duration="20756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_create_department - 2020.07.04 at 23h 32m 07s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_create_department" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_create_department - 2020.07.04 at 23h 33m 49s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_create_department" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_create_department - 2020.07.04 at 23h 35m 03s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_create_department" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_updates_department - 2020.07.04 at 23h 37m 07s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_updates_department" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_updates_department - 2020.07.04 at 23h 39m 16s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_updates_department" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_updates_department - 2020.07.04 at 23h 39m 58s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_updates_department" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_updates_department - 2020.07.04 at 23h 40m 14s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_updates_department" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_delete_department - 2020.07.04 at 23h 42m 25s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_delete_department" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_delete_department - 2020.07.04 at 23h 42m 41s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_delete_department" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_mailList_TestMailList_test_delete_department - 2020.07.04 at 23h 43m 36s.xml">
+      <configuration name="pytest for test_mailList.TestMailList.test_delete_department" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23271000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.026809651" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5205092" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/tool/Anaconda3/Lib/site-packages/numpy/_distributor_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/tool/Anaconda3/Lib/site-packages/pytest_arraydiff/plugin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/tool/Anaconda3/Lib/site-packages/_pytest/assertion/rewrite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/tool/Anaconda3/Lib/site-packages/urllib3/connectionpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="846" selection-start-line="846" selection-end-line="846" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="98" column="40" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_wx/test_getToken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_wx/test_mailList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="55" column="44" lean-forward="true" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
